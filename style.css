@@ -178,13 +178,13 @@ body {
   border-radius: 10px;
 }
 
-.csharp {width: 90%; background-color: #04AA6D;}
-.html {width: 75%; background-color: #36e2a3;} 
-.css {width: 40%; background-color: #2196F3;} 
+.csharp {width: 95%; background-color: #04AA6D;}
+.html {width: 90%; background-color: #36e2a3;} 
+.css {width: 65%; background-color: #2196F3;} 
 .js {width: 65%; background-color: #f44336;}
 .php {width: 60%; background-color: #808080;} 
 .java {width: 50%; background-color: #c7c7c7;} 
-.python {width: 20%; background-color: #1d1b1b;} 
+.python {width: 35%; background-color: #1d1b1b;} 
 .cpp {width: 5%; background-color: #8a49a1;}
 .lua {width: 70%; background-color: #1d1b1b;} 
 
