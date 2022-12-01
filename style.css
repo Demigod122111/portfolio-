@@ -23,7 +23,7 @@ body {
 
 /* Set a background color */
 body {
-  background-color: radial-gradient(circle, rgba(34,33,249,1) 18%, rgba(59,8,152,1) 100%);;
+  background-color: #343434;
   font-family: Helvetica, sans-serif;
 }
 
